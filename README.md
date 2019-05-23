@@ -6,3 +6,6 @@ This addressed event listeners and query selectors. I learned the purpose of dat
 
 ### Day 2 - Javascript and CSS Clock
 This looked at transition and transform in CSS. It also used javascript date functions. I learned about the inherit javascript date funtions, where previously I have used the Minute library.
+
+## Day 3 - CSS Variables
+This teaches the use of CSS variable, and how they can by dynamically updated. I had no idea that this was even a thing, and I'm glad I learned it. It's pretty awesome. I also learned more about data attributes.
